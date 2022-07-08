@@ -1,0 +1,47 @@
+{
+    "largeBlock":[
+    {
+        "id":"1",
+        "url":"leftblock.webp",
+        "heading":"Дайте волю своей фантазии",
+        "discriotion":"Конструируйте и создавайте аксессуары с новыми наборами LEGO® DOTS."
+    },
+    {
+        "id":"2",
+        "url":"rightblock.webp",
+        "heading":"Будет жутко весело",
+        "discriotion":"Добавьте эксклюзивный новый набор «Дом с привидениями» в свой Парк развлечений LEGO®." 
+    }
+  ],
+  "SecondLargeBlock":[
+      {
+        "id":"3",
+        "url":"Halloween40.webp",
+        "heading":"Украшение для Хэллоуина",
+        "discriotion":"Красочный набор «Хэллоуинская сова» станет прекрасным подарком или праздничным украшением."
+      },
+      {
+        "id":"4",
+        "url":"HalloweenHome.webp",
+        "heading":"Парочка, от которой волосы встают дыбом",
+        "discriotion":"Паук для дома с привидениями станет прекрасной декорацией для празднования Хэллоуина."
+      }
+  ],"heroBlock":[
+      {
+        "id":"5",
+        "logo":"harryPotter.png",
+        "subLogo":"wizardingWorld.png",
+        "url":"HarryPotterLarge.webp",
+        "heading":"Отпразднуйте двадцатилетие волшебной серии с новыми наборами LEGO® Harry Potter™" 
+      }     
+  ], "secondheroBlock":[
+    {
+        "id":"6",
+        "logo":"",
+        "subLogo":"",
+        "url":"BOTTLES_HERO_Banner_DESTOP_1960x600.webp",
+        "heading":"В прошлой жизни я был пластиковой бутылкой.",
+        "descripton":"Мы используем пластиковые ПЭТ-бутылки, чтобы сделать прототип кубика LEGO!"   
+      }
+  ]
+}

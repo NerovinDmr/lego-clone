@@ -1,0 +1,27 @@
+{
+    "quickLinks":[
+    {
+        "id":"1",
+        "url":"adults-welcome_04.webp",
+        "text":"Adults Welcome"
+    },
+    {
+        "id":"2",
+        "url":"75304-Home-202103-Quicklink.webp",
+        "text":"Star Wars" 
+    },
+    {
+        "id":"3",
+        "url":"10279-Hippie-Home-202108-Quicklink.webp",
+        "text":"Эксклюзивная продукция"
+    },{
+        "id":"4",
+        "url":"Halloween-2021-Home-Quicklink.webp",
+        "text":"Сезонная продукция"
+    },{
+        "id":"5",
+        "url":"42125-Home-202101-Quicklink.webp",
+        "text":"Technic™"
+    }
+  ]
+}
